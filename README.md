@@ -1,2 +1,2 @@
-# i18n-plugin
-an i18n tools for the figma plugin
+# i18n-plugin (POC)
+An i18n plugin for the figma tool to improve the development processes
